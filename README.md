@@ -1,3 +1,4 @@
+![Alt text](relative/path/to/image.jpg)
 Domain: Identity & Access Management
 
 Objective: Master Active Directory (AD) to manage users, groups, policies, and security configuration in a Windows enterprise environment.
